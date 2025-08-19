@@ -66,3 +66,4 @@ if __name__ == "__main__":
 
 
 #Өөрийн хүссэн комментоо бичээрэй
+#fhajfakfbfhafbhf
